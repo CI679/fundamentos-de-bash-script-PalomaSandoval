@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Tipos de variables: Universal -> Numero, Bool o una cadena
+
 n1=10
 n2=7
 echo "El valor de n1 es $n1" #$valor de la variable
